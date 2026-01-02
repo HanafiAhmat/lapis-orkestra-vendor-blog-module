@@ -125,7 +125,9 @@ This project is licensed under the **MIT License**.
 ## Author
 
 **Hanafi Ahmat**
+
 Master’s Candidate – Computer Science
+
 GitHub: [https://github.com/HanafiAhmat](https://github.com/HanafiAhmat)
 
 ---

@@ -1,0 +1,38 @@
+{
+  "name": "hanafiahmat/lapis-orkestra-vendor-blog-module",
+  "description": "A Lapis Orkestra module that provides blog functionality (research prototype).",
+  "type": "bitsynama-lapis-module",
+  "license": "MIT",
+  "version": "0.1.0",
+  "autoload": {
+    "psr-4": {
+      "Ampas\\Blog\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Hanafi Ahmat",
+      "email": "ahmat.hanafi@gmail.com",
+      "role": "developer"
+    }
+  ],
+  "require": {
+    "php": "^8.1",
+    "hanafiahmat/lapis-orkestra": "dev-main"
+  },
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/HanafiAhmat/lapis-orkestra"
+    }
+  ],
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "extra": {
+    "lapis-module": {
+      "module-key": "Blog",
+      "module-path": "src",
+      "priority": 150
+    }
+  }
+}

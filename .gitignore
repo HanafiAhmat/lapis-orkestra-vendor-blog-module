@@ -1,0 +1,10 @@
+vendor/
+.vscode/
+.vagrant/
+logs/*
+!logs/.gitkeep
+caches/*
+!caches/.gitkeep
+database.sqlite
+.env-local
+.env.local

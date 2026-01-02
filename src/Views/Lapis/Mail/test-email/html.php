@@ -1,0 +1,1 @@
+<p>This is a <strong>test email</strong> from the <em>SystemMonitor</em> module.</p>
